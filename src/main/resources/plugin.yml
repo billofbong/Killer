@@ -6,3 +6,6 @@ name: Killer
 startup: postworld
 url: http://awesomecraft.org/
 version: '1.0'
+permissions:
+  killer.kill:
+    default: OP
