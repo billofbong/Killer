@@ -9,3 +9,6 @@ version: '1.0'
 permissions:
   killer.kill:
     default: OP
+commands:
+  blazekill:
+    description: Lets you kill with a blaze rod
